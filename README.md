@@ -46,13 +46,13 @@ I write book reviews for social cataloging websites Goodreads and Storyboard. On
 - BRAC University, <i>BS in Computer Science and Engineering (2019)</i>
 
 ## 📚 Training
-- LICT Training on Android Development and Soft Skills (2017) : Android Programming, Soft Skills.
-- Strengthen the Asi@Connect Female Network Engineers (SAFE) (2021) : Network and System Administration, Security and Enterprise and Network Design.
-- RHCSA, RHCE, DCA and CKA (Linux Pathshala) (2022 - Present) : Linux System Administration, Ansible, Docker, Kubernetes.
-- BJIT YSDP Program for DevOps Engineers (2023 - Present) : Linux, AWS, Docker, Git, Kubernetes, SDLC, Jenkins.
+- <b>LICT Training on Android Development and Soft Skills (2017)</b>: Android Programming, Soft Skills.
+- <b>Strengthen the Asi@Connect Female Network Engineers (SAFE) (2021)</b>: Network and System Administration, Security and Enterprise and Network Design.
+- <b>RHCSA, RHCE, DCA and CKA (Linux Pathshala) (2022 - Present)</b>: Linux System Administration, Ansible, Docker, Kubernetes.
+- <b>BJIT YSDP Program for DevOps Engineers (2023 - Present)</b>: Linux, AWS, Docker, Git, Kubernetes, SDLC, Jenkins.
 
 ## 🏆 Achievements
-- AWS Cloud Quest Challenge (2023) : Completed a series of labs on AWS. Won goodies and Credly badge upon completion.
-- Learn to Earn Cloud Challenge (2021) : Completed a cloud challenge by Google Cloud. Won goodies and badges upon successful completion.
-- Diwali with Qwiklabs (2021) : Another cloud challenge by Google Cloud. Won goodies and badges upon successful completion.
+- <b>AWS Cloud Quest Challenge (2023)</b>: Completed a series of labs on AWS. Won goodies and Credly badge upon completion.
+- <b>Learn to Earn Cloud Challenge (2021)</b> : Completed a cloud challenge by Google Cloud. Won goodies and badges upon successful completion.
+- <b>Diwali with Qwiklabs (2021)</b>: Another cloud challenge by Google Cloud. Won goodies and badges upon successful completion.
 
