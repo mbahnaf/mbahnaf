@@ -14,10 +14,10 @@ I'm currently learning Python, AWS, GCP, Docker, Kubernetes and Ansible.
 - <b>Technologies:</b> Linux (Red Hat/Ubuntu), Ansible, Docker, Nginx, Google Cloud, AWS
 
 ## ⚡ Fun fact
-I have five cats!
+I have five cats! 🐈
 
 ## 📝 Writing
-I write book reviews for social cataloging websites Goodreads and Storyboard. On Goodreads, I am one of the most popular Bangladeshi reviewers of all time.
+I write book reviews for social cataloging websites Goodreads and StoryGraph. On Goodreads, I am one of the most popular Bangladeshi reviewers of all time.
 - [Goodreads](https://www.goodreads.com/mbahnaf)
 - [StoryGraph](https://app.thestorygraph.com/profile/mbahnaf)
 
@@ -35,15 +35,15 @@ I write book reviews for social cataloging websites Goodreads and Storyboard. On
  - Monitoring Room: Setup a multiviewer system for a client's monitoring room with multicast streams from multiple TV channels as output.
 
 ## 💻 Work Experience
-- BJIT Ltd, <i>Trainee Software Engineer (Apr 2023 - Present)</i><br />
+- <b>BJIT Ltd</b>, <i>Trainee Software Engineer (Apr 2023 - Present)</i><br />
   I am currently working on various projects for BJIT Ltd. Technologies used: Docker, Kubernetes, AWS, GCP, Azure, Jenkins, Git, Ansible.
-- VEOSTR Ltd, <i>Junior Site Reliability Engineer (Dec 2021 - Oct 2022)</i><br />
+- <b>VEOSTR Ltd</b>, <i>Junior Site Reliability Engineer (Dec 2021 - Oct 2022)</i><br />
   I worked on several projects for VEOSTR Ltd including setting up monitoring rooms, managing deployments and setting up an IaaS and SaaS product. Technologies used: Nginx, PHP, Virualization (Ovirt), GlusterFS, Docker.
-- Digi Jadoo Broadband Ltd, <i>Assistant System Engineer (Sep 2018 - Sep 2021)</i><br />
+- <b>Digi Jadoo Broadband Ltd</b>, <i>Assistant System Engineer (Sep 2018 - Sep 2021)</i><br />
   Provided L1 and L2 support for Network Operations and R&D teams. Worked on ISP Operations, Video streaming and many other projects. Technologies used: Nginx, PHP, Linux, MySQL.
 
 ## 🎓 Education
-- BRAC University, <i>BS in Computer Science and Engineering (2019)</i>
+- <b>BRAC University</b>, <i>BS in Computer Science and Engineering (2019)</i>
 
 ## 📚 Training
 - <b>LICT Training on Android Development and Soft Skills (2017)</b>: Android Programming, Soft Skills.
