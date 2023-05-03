@@ -1,4 +1,4 @@
-<img alt="Coder GIF" src="https://www.silvertouch.com/wp-content/uploads/2020/08/cloud.jpg" style="max-width: 100%; height: 100" data-target="animated-image.originalImage">
+<img alt="Coder GIF" src="https://www.silvertouch.com/wp-content/uploads/2020/08/cloud.jpg" style="max-width: 100%; height: 50" data-target="animated-image.originalImage">
 <h1>Hi there, I'm Muhammad Mutasim Billah 👋</h1>
 <h3 align="left">Trainee Software Engineer @ BJIT Ltd. | Cloud Enthusiast | DevOps Practitioner</h3>
 I'm an experienced SysOps Engineer with a background in <b>system design, operations, project management and IT training</b>. 
