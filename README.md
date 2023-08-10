@@ -35,8 +35,10 @@ I write book reviews for social cataloging websites Goodreads and StoryGraph. On
  - Monitoring Room: Setup a multiviewer system for a client's monitoring room with multicast streams from multiple TV channels as output.
 
 ## 💻 Work Experience
-- <b>BJIT Ltd</b>, <i>Trainee Software Engineer (Apr 2023 - Present)</i><br />
-  I am currently working on various projects for BJIT Ltd. Technologies used: Docker, Kubernetes, AWS, GCP, Azure, Jenkins, Git, Ansible.
+- <b>SIMEC Group</b>, <i>DevOps Engineer (Apr 2023 - Present)</i><br />
+  I worked on various projects for BJIT Ltd. Technologies used: Docker, Kubernetes, AWS, GCP, Azure, Jenkins, Git, Ansible.
+- <b>BJIT</b>, <i>Trainee Software Engineer, DevOps and Cloud (Apr 2023 - Present)</i><br />
+  I worked on various projects for BJIT Ltd. Technologies used: Docker, Kubernetes, AWS, GCP, Azure, Jenkins, Git, Ansible.
 - <b>VEOSTR Ltd</b>, <i>Junior Site Reliability Engineer (Dec 2021 - Oct 2022)</i><br />
   I worked on several projects for VEOSTR Ltd including setting up monitoring rooms, managing deployments and setting up an IaaS and SaaS product. Technologies used: Nginx, PHP, Virualization (Ovirt), GlusterFS, Docker.
 - <b>Digi Jadoo Broadband Ltd</b>, <i>Assistant System Engineer (Sep 2018 - Sep 2021)</i><br />
@@ -49,7 +51,7 @@ I write book reviews for social cataloging websites Goodreads and StoryGraph. On
 - <b>LICT Training on Android Development and Soft Skills (2017)</b>: Android Programming, Soft Skills.
 - <b>Strengthen the Asi@Connect Female Network Engineers (SAFE) (2021)</b>: Network and System Administration, Security and Enterprise and Network Design.
 - <b>RHCSA, RHCE, DCA and CKA (Linux Pathshala) (2022 - Present)</b>: Linux System Administration, Ansible, Docker, Kubernetes.
-- <b>BJIT YSDP Program for DevOps Engineers (2023 - Present)</b>: Linux, AWS, Docker, Git, Kubernetes, SDLC, Jenkins.
+- <b>BJIT YSDP Program for DevOps Engineers (2023 - 2023)</b>: Linux, AWS, Docker, Git, Kubernetes, SDLC, Jenkins.
 
 ## 🏆 Achievements
 - <b>AWS Cloud Quest Challenge (2023)</b>: Completed a series of labs on AWS. Won goodies and Credly badge upon completion.
