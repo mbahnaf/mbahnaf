@@ -1,6 +1,6 @@
 <img alt="Coder GIF" src="https://www.silvertouch.com/wp-content/uploads/2020/08/cloud.jpg" style="max width: 100%" data-target="animated-image.originalImage">
 <h1>Hi there, I'm Muhammad Mutasim Billah 👋</h1>
-<h3 align="left">Trainee Software Engineer @ BJIT Ltd. | Cloud Enthusiast | DevOps Practitioner</h3>
+<h3 align="left">DevOps Engineer @ SIMEC Systems Ltd. | Cloud Enthusiast | DevOps Practitioner</h3>
 I'm an experienced SysOps Engineer with a background in <b>system design, operations, project management and IT training</b>. 
 
 ## 👨🏽‍💻 What I'm working on
@@ -36,7 +36,7 @@ I write book reviews for social cataloging websites Goodreads and StoryGraph. On
 
 ## 💻 Work Experience
 - <b>SIMEC Group</b>, <i>DevOps Engineer (Apr 2023 - Present)</i><br />
-  I worked on various projects for BJIT Ltd. Technologies used: Docker, Kubernetes, AWS, GCP, Azure, Jenkins, Git, Ansible.
+  I worked on various projects for SIMEC Systems Ltd. Technologies used: Docker, Kubernetes, AWS, GCP, Azure, Jenkins, Git, Ansible.
 - <b>BJIT</b>, <i>Trainee Software Engineer, DevOps and Cloud (Apr 2023 - Present)</i><br />
   I worked on various projects for BJIT Ltd. Technologies used: Docker, Kubernetes, AWS, GCP, Azure, Jenkins, Git, Ansible.
 - <b>VEOSTR Ltd</b>, <i>Junior Site Reliability Engineer (Dec 2021 - Oct 2022)</i><br />
