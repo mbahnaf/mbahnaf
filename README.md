@@ -4,7 +4,7 @@
 I'm an experienced SysOps Engineer with a background in <b>system design, operations, project management and IT training</b>. 
 
 ## 👨🏽‍💻 What I'm working on
-Currently, I am working on a project for BJIT Academy called <b>Recipe Hub</b> as part of the YSDP DevOps training.
+Currently, I am working on several government projects for SIMEC Systems Ltd.
 
 ## 🧠 What I'm currently learning
 I'm currently learning Python, AWS, GCP, Docker, Kubernetes and Ansible.
