@@ -49,8 +49,7 @@ I write book reviews for social cataloging websites Goodreads and StoryGraph. On
         <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/>
         <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
         <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="40" height="40"/>
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-        
+        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>        
     </p>
 </div>
 
@@ -98,3 +97,4 @@ I write book reviews for social cataloging websites Goodreads and StoryGraph. On
 
 <div align="center">
     <h5>Copyright &copy; Muhammad Mutasim Billah. Please contact mbahnaf@gmail.com</h5>
+</div>
