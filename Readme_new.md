@@ -93,4 +93,4 @@ I write book reviews for social cataloging websites Goodreads and StoryGraph. On
     - Another cloud challenge by Google Cloud. Won goodies and badges upon successful completion.
 
 <div align="center">
-    <h5>Copyright &copy; Muhammad Mutasim Billah. Please contact mbahn
+    <h5>Copyright &copy; Muhammad Mutasim Billah. Please contact mbahnaf@gmail.com</h5>
