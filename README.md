@@ -60,10 +60,10 @@ I write book reviews for social cataloging websites Goodreads and StoryGraph. On
 - Monitoring Room: Setup a multiviewer system for a client's monitoring room with multicast streams from multiple TV channels as output.
 
 ## 💻 Work Experience
-- **SIMEC Group**, *DevOps Engineer (Apr 2023 - Present)*
+- **SIMEC Group**, *DevOps Engineer (AUg 2023 - Present)*
     Worked on various projects for SIMEC Systems Ltd. Technologies used: Docker, Kubernetes, AWS, Azure, Jenkins, Git, Ansible, SonarQube.
 	<br />
-- **BJIT**, *Trainee Software Engineer, DevOps and Cloud (Apr 2023 - Present)*
+- **BJIT**, *Trainee Software Engineer, DevOps and Cloud (Apr 2023 - Aug 2023)*
     Worked on various projects for BJIT Ltd.
       Technologies used: Docker, Kubernetes, AWS, Jenkins, Git, Ansible.
 	<br />
