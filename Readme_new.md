@@ -4,9 +4,20 @@
 
 # Hi there, I'm Muhammad Mutasim Billah 👋
 
-### DevOps Engineer @ SIMEC Systems Ltd. | Cloud Enthusiast | DevOps Practitioner
+### DevOps Engineer @ SIMEC Systems Ltd. | Cloud Enthusiast | Learner
 
 Experienced DevOps engineer with a multi-faceted, colorful background in the tech industry, working on high-availability services like satellite networks, OTT video streaming platforms, and datacenter compute solutions. I enjoy designing systems that solve real-world problems impacting millions of lives.
+
+<div align="center">
+    <p>
+        <a href="https://linkedin.com/in/mbahnaf" target="blank">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+        </a>
+        <a href="https://fb.com/mbahnaf" target="blank">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+        </a>
+    </p>
+</div>
 
 ## 👨🏽‍💻 What I'm working on
 Currently, I am working on several government projects for SIMEC Systems Ltd.
@@ -26,16 +37,7 @@ I write book reviews for social cataloging websites Goodreads and StoryGraph. On
 - [Goodreads](https://www.goodreads.com/mbahnaf)
 - [StoryGraph](https://app.thestorygraph.com/profile/mbahnaf)
 
-<div align="center">
-    <p>
-        <a href="https://linkedin.com/in/mbahnaf" target="blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-        </a>
-        <a href="https://fb.com/mbahnaf" target="blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-        </a>
-    </p>
-</div>
+
 
 ## 🚀 Skills
 <div align="center">
