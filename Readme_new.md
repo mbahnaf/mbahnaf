@@ -61,19 +61,19 @@ I write book reviews for social cataloging websites Goodreads and StoryGraph. On
 ## 💻 Work Experience
 - **SIMEC Group**, *DevOps Engineer (Apr 2023 - Present)*
     Worked on various projects for SIMEC Systems Ltd.
-      - Technologies used: Docker, Kubernetes, AWS, Azure, Jenkins, Git, Ansible, SonarQube.
+      Technologies used: Docker, Kubernetes, AWS, Azure, Jenkins, Git, Ansible, SonarQube.
 	<br />
 - **BJIT**, *Trainee Software Engineer, DevOps and Cloud (Apr 2023 - Present)*
     Worked on various projects for BJIT Ltd.
-      - Technologies used: Docker, Kubernetes, AWS, Jenkins, Git, Ansible.
+      Technologies used: Docker, Kubernetes, AWS, Jenkins, Git, Ansible.
 	<br />
 - **VEOSTR Ltd**, *Junior Site Reliability Engineer (Dec 2021 - Oct 2022)*
     Worked on several projects for VEOSTR Ltd, including setting up monitoring rooms, managing deployments, and setting up an IaaS and SaaS product.
-      - Technologies used: Nginx, PHP, Virtualization (Ovirt), GlusterFS, Docker.
+      Technologies used: Nginx, PHP, Virtualization (Ovirt), GlusterFS, Docker.
 	<br />
 - **Digi Jadoo Broadband Ltd**, *Assistant System Engineer (Sep 2018 - Sep 2021)*
     Provided L1 and L2 support for Network Operations and R&D teams. Worked on ISP Operations, Video streaming, and many other projects.
-       - Technologies used: Nginx, PHP, Linux, MySQL.
+       Technologies used: Nginx, PHP, Linux, MySQL.
 
 ## 🎓 Education
 - **BRAC University**, *BS in Computer Science and Engineering (2019)*
