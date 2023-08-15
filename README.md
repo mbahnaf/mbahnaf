@@ -6,7 +6,7 @@
 
 ### DevOps Engineer @ SIMEC Systems Ltd. | Cloud Enthusiast | Learner
 
-Experienced DevOps engineer with a multi-faceted, colorful background in the tech industry, working on high-availability services like satellite networks, OTT video streaming platforms, and datacenter compute solutions. I enjoy designing systems that solve real-world problems impacting millions of lives.
+Experienced DevOps engineer with multi-faceted, colorful background in the tech industry, working on high-availability services like satellite networks, OTT video streaming platforms, and datacenter compute solutions. I enjoy designing systems that solve real-world problems impacting millions of lives.
 
 <div align="center">
     <p>
