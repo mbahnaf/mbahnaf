@@ -1,7 +1,7 @@
 <img alt="Coder GIF" src="https://www.silvertouch.com/wp-content/uploads/2020/08/cloud.jpg" style="max width: 100%" data-target="animated-image.originalImage">
 <h1>Hi there, I'm Muhammad Mutasim Billah 👋</h1>
 <h3 align="left">DevOps Engineer @ SIMEC Systems Ltd. | Cloud Enthusiast | DevOps Practitioner</h3>
-I'm an experienced DevOps Engineer with a background in <b>system design, operations, project management and IT training</b>. 
+Experienced DevOps engineer with multi-faceted, colorful background in the tech industry working on high-availability services like satellite networks, OTT video streaming platforms and datacenter compute solutions. I enjoy designing systems that solve real-world problems impacting millions of lives. 
 
 ## 👨🏽‍💻 What I'm working on
 Currently, I am working on several government projects for SIMEC Systems Ltd.
