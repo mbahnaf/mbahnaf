@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="Cover Image" src="[https://www.silvertouch.com/wp-content/uploads/2020/08/cloud.jpg](https://media.tenor.com/YdTpw-54DXcAAAAC/pusheen-laptop.gif)" style="max-width: 100%;">
+    <img alt="Cover Image" src="https://media.tenor.com/YdTpw-54DXcAAAAC/pusheen-laptop.gif" style="max-width: 100%;">
 </div>
 
 # Hi there, I'm Muhammad Mutasim Billah 👋
