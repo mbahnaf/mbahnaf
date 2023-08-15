@@ -50,7 +50,7 @@ I write book reviews for social cataloging websites Goodreads and StoryGraph. On
         <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
         <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="40" height="40"/>
         <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-        <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="SonarQube" width="40" height="40"/>
+        <img src="https://vectorwiki.com/images/vynW5__sonarqube.svg" alt="SonarQube" width="40" height="40"/>
     </p>
 </div>
 
